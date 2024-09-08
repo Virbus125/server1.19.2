@@ -1,0 +1,12 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:old_growth_pine_taiga": "2024-09-04 16:42:53 +0200",
+      "minecraft:taiga": "2024-09-04 16:43:54 +0200",
+      "minecraft:beach": "2024-09-04 16:42:08 +0200",
+      "minecraft:old_growth_spruce_taiga": "2024-09-04 16:40:45 +0200"
+    },
+    "done": false
+  },
+  "DataVersion": 3120
+}
